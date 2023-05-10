@@ -10,7 +10,7 @@ TIM2_CH2 - PA1
 Spremeni se za 4 številke.
 
 
-KOMENTAR: Koda deluje brezhibno in brez napak.
+KOMENTAR: Koda deluje brezhibno in brez napak. Na začetku sva imela kar nekaj težav z kodo vendar sva jih odpravila.
 
 slika vezave: 
 
